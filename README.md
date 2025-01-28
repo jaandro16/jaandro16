@@ -8,7 +8,7 @@ I am a passionate Software Developer who loves to code and solve programming cha
 
 *   🌍  I'm based in Bogotá, Colombia
 *   🖥️  See my portfolio at [My Portfolio]()
-*   ✉️  You can contact me at [camiloplaza3@gmail.com](mailto:jandroperezrentero12@gmail.com)
+*   ✉️  You can contact me at [jandroperezrentero12@gmail.com](mailto:jandroperezrentero12@gmail.com)
 *   🚀  I'm currently studying Web Application Development
 *   🧠  I'm learning Cybersecurity
 *   🤝  I'm open to collaborating on Any project
