@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-I am a passionate Software Developer who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology. I currently reside in the capital city of Colombia, Bogota. I am pursuing my Bachelor's degree in Computer Science and Engineering from the prestigious Universidad Central de Colombia. When I have some free time, I enjoy reading technical articles and playing video games. My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
+I am a web developer with strong focus on building websites and applications that combine creativity and efficiency to make the user experience unique. My goal is to provide technological solutions that enhance companies online presence and functionality. I am passionate about challenges. I currently reside in the city of Madrid, Spain. I am in my second year of the Higher Vocational Training in Web Application Development. When I have some free time, I enjoy exploring cybersecurity, going to the gym, and hiking in the mountains. I work daily to improve my skills, build innovative projects, and above all, continue updating those that are already completed. I am excited to contribute my passion and creativity to your amazing team.
 
-*   🌍  I'm based in Bogotá, Colombia
-*   🖥️  See my portfolio at [My Portfolio]()
+*   🌍  I'm based in Madrid, Spain
+*   🖥️  See my portfolio at [My Portfolio](https://alejandroperez.vercel.app)
 *   ✉️  You can contact me at [jandroperezrentero12@gmail.com](mailto:jandroperezrentero12@gmail.com)
 *   🚀  I'm currently studying Web Application Development
 *   🧠  I'm learning Cybersecurity
