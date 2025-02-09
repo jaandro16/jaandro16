@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alejandro Pérez Rentero
 ===================================================================================================================================================
 
-Software developer
+Fullstack developer
 ------------------
 
 I am a web developer with strong focus on building websites and applications that combine creativity and efficiency to make the user experience unique. My goal is to provide technological solutions that enhance companies online presence and functionality. I am passionate about challenges. I currently reside in the city of Madrid, Spain. I am in my second year of the Higher Vocational Training in Web Application Development. When I have some free time, I enjoy exploring cybersecurity, going to the gym, and hiking in the mountains. I work daily to improve my skills, build innovative projects, and above all, continue updating those that are already completed. I am excited to contribute my passion and creativity to your amazing team.
